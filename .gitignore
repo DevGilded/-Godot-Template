@@ -1,0 +1,32 @@
+# Godot 4+ specific ignores
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Godot project file backups
+*.tmp
+*.godot~
+*.tscn~
+
+# Godot-generated binary meshes & shaders
+*.bin
+*.material
+
+# Mono (C# users)
+.mono/
+*.csproj
+*.sln
+*.user
+*.vs/
+# Rider / JetBrains
+.idea/
+
+# Personal/editor settings (optional to ignore)
+.editor_settings-*.godot
+/android/
