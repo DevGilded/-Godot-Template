@@ -26,7 +26,6 @@ window/size/window_height_override=720
 folder_colors={
 "res://addons/": "yellow",
 "res://assets/": "yellow",
-"res://commons/": "green",
 "res://components/": "blue",
 "res://core/": "blue",
 "res://entities/": "purple",
